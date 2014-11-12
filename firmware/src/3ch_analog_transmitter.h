@@ -1,5 +1,25 @@
 /*
- * RFD21733 RFDP8  3-Channel Triple-Mode Wireless Encoder
+ *	w12_wirelessTransmitter.h
+ *
+ *	Created: 5/6/2013 10:17:32 AM
+ *  Author: littleBits Electronics, Inc.
+ *
+ * Copyright 2014 littleBits Electronics
+ *
+ * This file is part of w12-wirelessTransmitter.
+ *
+ * w12-wirelessTransmitter is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * w12-wirelessTransmitter is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * 
+ * This file incorporates work covered by the following copyright:
+ *
+ * RFD21733 RFDP8 3-Channel Triple-Mode Wireless Decoder
  * Copyright (c) RF Digital Corporation
  * 1601 Pacific Coast Highway, Suite 290
  * Hermosa Beach, CA, 90254
